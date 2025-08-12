@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "b45685b096149e3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5fd122b5fda5b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61bc0c9f4a42247",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52304a19f948f11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ae0eec3cef6b114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff73a0b3abfabaf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58f2edebfcc0b1b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2564368364aa5b8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a31254b994abd011",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dba9c2a60439df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "850d12d4b1e111e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a242d97dd053353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b7bdcfa454f096f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c49fd5c624864e69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1255f3a6b87ec1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b61bc0c9f4a42247",
+  "lastOpenFiles": [
+    "Front-End/Angular/Untitled.md",
+    "Front-End/Attatchments/Pasted image 20230509102701.png",
+    "Front-End/Attatchments/Screenshot 2023-05-04 at 10.11.41 AM.png",
+    "Front-End/Attatchments",
+    "Front-End/Untitled",
+    "Front-End/products.md",
+    "Front-End/MUP CLI.md",
+    "Front-End/Dependencies.md",
+    "Front-End/MUP.md",
+    "Front-End/Angular/example application.md",
+    "Term/Term Tips & Tricks.md",
+    "Term/Untitled.md",
+    "Term",
+    "Front-End/Angular/Learning Angular action plan.md",
+    "Front-End/Angular",
+    "Front-End/Metadata Overview.md",
+    "Front-End/Untitled.md",
+    "Front-End/SCP UI Onboarding Notes.md",
+    "Setting Up component Locally.md",
+    "Back-End/Item Location Component.md",
+    "Common Terminal Commands For ManH Development.md",
+    "Back-End/Common Terminal Commands For ManH Development.md",
+    "Front-End",
+    "Back-End",
+    "Back-End/Code notes/DevNotes/ModelStoreSetupMapServiceImpl.java.md",
+    "Back-End/Code notes/DevNotes/Increasing Code Coverage.md",
+    "Back-End/Code notes/Resources.md",
+    "Back-End/Code notes/DevNotes",
+    "Back-End/Code notes"
+  ]
+}

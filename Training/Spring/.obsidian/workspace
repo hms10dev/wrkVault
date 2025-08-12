@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "9293317cb0984c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec9f0380ac8ce13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-08-31.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad78aea75888c12c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fca7edc2d7f8af9",
+        "type": "tabs",
+        "dimension": 76.64023071377073,
+        "children": [
+          {
+            "id": "e9666bbf0a454249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4185ad631233e633",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Spring",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0477e7d339a4e332",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2de0def036914b41",
+        "type": "tabs",
+        "dimension": 23.35976928622927,
+        "children": [
+          {
+            "id": "c687d4dc102327a4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2022-08-31.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.44620594102511235,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94dd5a3f663f662d",
+    "type": "split",
+    "children": [
+      {
+        "id": "520ff6ada72c43ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cf214485070926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-08-31.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d57481d176cdd1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-08-31.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3c578d33d9f4cb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34697e4ffa741857",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-08-31.md"
+              }
+            }
+          },
+          {
+            "id": "5b77c7050393c679",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f124d1c90c7f0f11",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9ec9f0380ac8ce13",
+  "lastOpenFiles": [
+    "Autowiring.md",
+    "Spring Overview.md",
+    "Spring Projects.md",
+    "Beans.md",
+    "Constructor Injection.md",
+    "2022-08-24.md",
+    "Spring Review.md",
+    "Inversion of control.md",
+    "Dependency Injection.md",
+    "Templates/QuickNote.md"
+  ]
+}

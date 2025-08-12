@@ -1,0 +1,45 @@
+{
+  "agentSettings": {
+    "OPEN_AI_API_KEY": "",
+    "ANTHROPIC_API_KEY": "",
+    "MODEL_TYPE": "gpt-3.5-turbo",
+    "INPUT_LANGUAGE": "en",
+    "TEMPERATURE": 0.7,
+    "TOP_P": 1
+  },
+  "pluginSettings": {
+    "christie": {
+      "priorInstruction": ""
+    },
+    "darwin": {
+      "minimum_tag_count_to_present": 1,
+      "only_suggest_existing_tags": false,
+      "exclude_tags": [],
+      "max_tags_to_show": 4,
+      "tag_style": "None"
+    },
+    "feynman": {
+      "folder": "FeynmanFlashcards"
+    },
+    "ford": {
+      "folder": "FordTemplates"
+    },
+    "nostradamus": {},
+    "polo": {
+      "priorInstruction": "",
+      "showFilesInFolderStructure": false,
+      "showFileContent": false
+    },
+    "socrates": {
+      "priorInstruction": "",
+      "agent_folder": "Arcana/Agents",
+      "autoSendTranscription": false,
+      "socratesMemorySize": 10,
+      "ttsParams": {
+        "voice": "alloy",
+        "rate": 1
+      },
+      "autoSpeakReply": false
+    }
+  }
+}

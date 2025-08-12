@@ -1,0 +1,19 @@
+{
+  "maple-basic@@color-use-custom": true,
+  "maple-basic@@color-active-light": "color-active-default-light",
+  "maple-basic@@setting-accent-h-dark": 105,
+  "maple-workspace@@bg-enable": "bg-live",
+  "maple-workspace@@outline-item-animation": true,
+  "bolt-theme@@theme-class-select": "theme-green",
+  "bolt-theme@@restore-ribbon": true,
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-latte-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-custom-lt",
+  "obsidian-prism-theme@@color-accent-base-lt": "#E8D3B4",
+  "obsidian-prism-theme@@color-accent-text-lt": "#3C301E",
+  "obsidian-prism-theme@@color-accent-tint-lt": "#BA955F",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-mocha-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-orange-dt",
+  "obsidian-prism-theme@@pt-icons-accent": false
+}

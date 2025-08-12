@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "fc97c87998efd581",
+      "type": "file",
+      "file": "Development/Back-End/Code notes/Demand Cleansing.md",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -1340,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f8248f2be95db9ab",
+      "type": "text",
+      "text": "\n### `demandCleansingBatchProcessor.processProductAggregation(dcContext)`",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -1240,
+      "width": 720,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "34e352ef1f3a6af9",
+      "type": "text",
+      "text": "# Process Flow:",
+      "styleAttributes": {},
+      "x": -345,
+      "y": -1340,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b245edcd87e9d6a6",
+      "type": "text",
+      "text": "### **Class: Demand Cleansing Batch Processor **\n1. `DemandCleansingPolicy demandCleansingPolicy = demandCleansingBatchContext.getDemandCleansingPolicy();`\n2. `IndexedHistory cleansedHistory = processClassifyAndCleanseDemand()`\n\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n3. ```demandCleansingResult.setCleansedHistory(cleansedHistory);  \ndemandCleansingResult.setDemandClassification(demandClassification);",
+      "styleAttributes": {},
+      "x": -357,
+      "y": -1127,
+      "width": 275,
+      "height": 807,
+      "color": "4"
+    },
+    {
+      "id": "543ed568765cb50e",
+      "type": "text",
+      "text": "##### _Method:`classifyAndCleanseDemand() `_\n`return cleansedHistory;`",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -560,
+      "width": 490,
+      "height": 100,
+      "color": "#81a28e"
+    },
+    {
+      "id": "10b14b67bd4a7511",
+      "type": "text",
+      "text": "##### _Method:`processClassifyAndCleanseDemand() `_\n```\nif (productLocation.getStatus() != null && productLocation.getStatus().equals(\"INACTIVE\"))  \n{  \n    classifyInActive(tempDistributionByDemandClassification, demandClassification, demandCleansingResult,  \n            demandCleansingPolicy, productLocation, originalHistory, calledInFEContext);\n}\n.\n.\n.\n.\n.\n.\nreturn cleansedHistory;\n}\n```",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -920,
+      "width": 490,
+      "height": 326,
+      "color": "#81a28e"
+    },
+    {
+      "id": "0d89d214ef91901b",
+      "type": "text",
+      "text": "explain in a way that is visibly digestible to new devs on the team",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -490,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f9141bbe211b5e31",
+      "type": "text",
+      "text": "Make sure you address ALL the methods that are passed through",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -546,
+      "width": 250,
+      "height": 36
+    },
+    {
+      "id": "d915ecef23e70ff0",
+      "type": "text",
+      "text": "just put a couple lines that explain what is going on ",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -400,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "af29ec48af4e72cb",
+      "type": "text",
+      "text": "THEN we will explain what each are doing",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -320,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "770e80c157b66d03",
+      "type": "text",
+      "text": "Review tomorrow",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -240,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "90f47dac16840801",
+      "type": "text",
+      "text": "# Diagram notes:\n### **Classification (Left Side)**\n\n1. **Start Classification Process**\n    \n    - **Input:** Aggregated product demand data.\n    - **Next Step:** Check Original History.\n2. **Check Original History**\n    \n    - If original history is null:\n        - Go to **Classify New Demand**.\n    - Else:\n        - Proceed to **Check Product Location Status**.\n3. **Classify New Demand**\n    \n    - **Action:** Classifies new product locations based on regional demand.\n    - **Next Step:** Classification results are forwarded to demand cleansing policy.\n4. **Check Product Location Status (Is Inactive?)**\n    \n    - If status is inactive:\n        - Skip classification.\n    - Else:\n        - Proceed to **Check Thresholds for Classification**.\n5. **Check Thresholds for Classification**\n    \n    - **Action:** Uses demand thresholds to classify demand segments.\n6. **Update Demand Map**\n    \n    - **Action:** Updates map to track product location based on classification.\n    - **End of Classification Process.**\n\n---\n\n### **Cleansing (Right Side)**\n\n1. **Start Cleansing Process**\n    \n    - **Input:** Classified demand data (from the classification process).\n    - **Next Step:** Check Cleansed History.\n2. **Check Cleansed History**\n    \n    - **Action:** Validate cleansed history records to ensure proper classification.\n3. **Clean Demand Data**\n    \n    - **Action:** Cleanses demand data by removing spikes and anomalies, refines inputs.\n    - **Next Step:** Update cleansed data with appropriate segmentation.\n4. **Process Segments**\n    \n    - **Action:** Processes data, removing unnecessary elements (e.g., non-promo demand periods, inactive locations).\n    - **Next Step:** Return cleansed history.\n5. **Return Cleansed History**\n    \n    - **End of Cleansing Process.**",
+      "styleAttributes": {},
+      "x": -1200,
+      "y": -880,
+      "width": 500,
+      "height": 1000
+    }
+  ],
+  "edges": [
+    {
+      "id": "56201a08f6b84de1",
+      "fromNode": "f8248f2be95db9ab",
+      "fromSide": "bottom",
+      "toNode": "b245edcd87e9d6a6",
+      "toSide": "top"
+    },
+    {
+      "id": "b014bd6397acc545",
+      "fromNode": "10b14b67bd4a7511",
+      "fromSide": "bottom",
+      "toNode": "543ed568765cb50e",
+      "toSide": "top"
+    },
+    {
+      "id": "7fa75259e2bb5ac1",
+      "fromNode": "543ed568765cb50e",
+      "fromSide": "right",
+      "toNode": "10b14b67bd4a7511",
+      "toSide": "right"
+    },
+    {
+      "id": "31a75b853f457f21",
+      "fromNode": "d915ecef23e70ff0",
+      "fromSide": "bottom",
+      "toNode": "af29ec48af4e72cb",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

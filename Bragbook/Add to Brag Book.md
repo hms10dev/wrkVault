@@ -1,0 +1,2 @@
+- Spoke at women and tech early career panel
+-  Transitioned from back end to front end successfully
