@@ -1,4 +1,4 @@
-# Identify Hardcoded Lifecycle Statuses
+# Identify Hardcoded [[Life Cycle Status]]es
 
 Relevant Ticket: AI-20833
 End Date: November 15, 2024 3:00 PM (EST)
