@@ -1,5 +1,6 @@
 Reference:
 https://manhattanassociates.atlassian.net/wiki/spaces/ASCP/pages/4320493604/Demand+Cleansing+Policy
+Related: [[Training/Enterprise Supply Chain Management/Enterprise Supply Chain Management|Enterprise Supply Chain Management Book Log]]
 
 ### Terminologies
 

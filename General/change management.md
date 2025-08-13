@@ -3,6 +3,8 @@
 ## Date: Aug 2, 2022
 
 ---
+Part of the [[Entity Framework]] (see [[MA Frameworks Overview]]).
+
 
 ## Change Management, What is it?
 - Change Management which is part of the Entity Framework provides capabilities for detecting changes to an entity and raise events.

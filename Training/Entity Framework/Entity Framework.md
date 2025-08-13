@@ -3,12 +3,15 @@
 ## Date: Aug 5, 2022
 
 ---
+See [[MA Frameworks Overview]] for a broader overview of Manhattan Active frameworks.
+
 
 ## What is it?
 - Most difficult and most important framework
 	- maintains consistency throughout the whole suite of applications we develop
 - Set of technologies that enable application devs to work with relational data using domain-specific objects
 - provides consistent set of APIs to create/update or access data
+- Includes features like [[change management]] for tracking entity updates.
 - devs can work with a higher level of abstraction upon dealing with data
 
 ## Architecture
