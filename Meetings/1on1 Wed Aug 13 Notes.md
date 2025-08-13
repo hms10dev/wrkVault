@@ -27,7 +27,7 @@
 **Presentation Dry Run**
 
 - Scheduled for next Friday
-- Include: David, Hollis, Achea
+- Include: David, Akshay
 - Goal: Final feedback before presentation
 
 ---
@@ -77,9 +77,9 @@
 
 ### Your Work
 
-- Abolash: Backend changes to fetch/display lifecycle status
-- Hollis: UI implementation to show status on forecast entity list
-- **Learning opportunity:** Review Abolash's code, understand inheritance framework
+- Abhilash: Backend changes to fetch/display lifecycle status
+- Hawa: UI implementation to show status on forecast entity list
+- **Learning opportunity:** Review Abhilash's code, understand inheritance framework
 
 ---
 
@@ -115,6 +115,11 @@
 - [ ] Complete percent field change story
 - [ ] Stay on top of aggregate story testing (Rama)
 - [ ] Prep for lifecycle status work (understand requirements)
+- [ ] set calendar reminders for 
+	- [ ] end of sprint
+	- [ ] review new stories for every other week
+	- [ ] Friday Office hours
+	- [ ] etc.
 
 ### Sprint Planning (Friday)
 
