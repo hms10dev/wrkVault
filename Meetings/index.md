@@ -1,6 +1,5 @@
 # Meetings Index
 
-
 ### 2025
 - [[1on1_Wed Aug 13 Preparation]]
  - [[DevTime Notes]]

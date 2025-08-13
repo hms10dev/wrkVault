@@ -78,9 +78,66 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "ff34099c02e6eb6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "08052406354511c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "45a8a7666622b913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "9a3d19dd68df1f6c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Development/index.md",
+                "bFile": "Development/index.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: index"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -153,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/index.md",
+                "file": "Development/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +277,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -239,14 +297,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82a59ca76518cb0a",
+  "active": "45a8a7666622b913",
   "lastOpenFiles": [
+    "Development/Development index.md",
+    "Development/index.md",
+    "conflict-files-obsidian-git.md",
+    "Meetings/index.md",
+    "Development/SCP/Supply Chain & SCP Notes.md",
+    "Development/SCP/SCP.md",
+    "Development/Forecasting/Forecasting.md",
+    "Development/Forecasting",
     "Life/Getting Things Done_GTD.md",
     "Life/index.md",
     "General/change management.md",
     "General/MA Frameworks Overview.md",
     "General/index.md",
-    "Development/Development index.md",
     "Home.md",
     "Meetings/1on1_Wed Aug 13 Preparation.md",
     "Development/Python Script Guide-Incremental....md",
@@ -254,7 +319,6 @@
     "Development/Back-End/Identify Hardcoded Lifecycle statuses.md",
     "Development/FullStack/Stories/Untitled.md",
     "Development/Front-End/General Development Notes.md",
-    "Meetings/index.md",
     "Daily Notes (Stand-ups and Etc)/index.md",
     "WoRD/index.md",
     "Development/Front-End/Conditional_Hidden Field Description.md",
@@ -262,12 +326,7 @@
     "Development/Back-End/Code notes/Forecast Projection Calculation.md",
     "Development/Back-End/DB/How to Access DB.md",
     "Development/Back-End/Python Scripts/Python Script Guide-Incrementing Dates in a Text File.md",
-    "Development/Back-End/Python Scripts/Python Script Guide-Shifting Dates in a Text File.md",
-    "Development/Back-End/Stories/Card View.md",
-    "Development/Back-End/Code Notes for E2E Testing.md",
-    "Development/Back-End/Aggregate Profiling.md",
     "Development/Back-End/Implementation of isClassificationOnly Flag diagram.canvas",
-    "Development/Back-End/Lifecycle Status.md",
     "Training/Enterprise Supply Chain Management",
     "Archive",
     "Untitled.canvas",
