@@ -1,7 +1,7 @@
 # Home
 
 #### Welcome to your work digital brain . Select a category:
-##### - [[Bragbook/index|Bragbook]]
+
 ##### - [[Daily Notes (Stand-ups and Etc)/index|Daily Notes]]
 ##### - [[Development/index|Development]]
 ##### - [[General/index|General]]
@@ -11,6 +11,7 @@
 ##### - [[Templates/index|Templates]]
 ##### - [[Training/index|Training]]
 ##### - [[WoRD/index|WoRD]]
+##### - [[Bragbook/index|Bragbook]]
 
 ## Loose Notes
  - [[Code Notes for E2E Testing]]

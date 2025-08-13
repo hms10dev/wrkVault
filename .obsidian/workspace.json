@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "e36788f4d6f67f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WoRD/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "907b90b06e5605b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +212,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ded18075f0a7be99",
+  "active": "907b90b06e5605b7",
   "lastOpenFiles": [
+    "Daily Notes (Stand-ups and Etc)/index.md",
+    "Daily Notes (Stand-ups and Etc)/Today's To-do.md",
+    "Daily Notes (Stand-ups and Etc)/New Assignment.md",
+    "Daily Notes (Stand-ups and Etc)/Interfaces.md",
+    "Daily Notes (Stand-ups and Etc)/Untitled.md",
+    "Daily Notes (Stand-ups and Etc)/Untitled 1.md",
+    "WoRD/index.md",
+    "Home.md",
+    "Training/Enterprise Supply Chain Management/Enterprise Supply Chain Management.md",
+    "Training/Enterprise Supply Chain Management",
+    "Meetings/Forecast Summary Policies Meeting Mar 11 2025.md",
+    "Development/Feature Flags.md",
     "Bragbook/Add to Brag Book.md",
     "Bragbook/index.md",
-    "Home.md",
     "Development/Changing Component Image In A Freedom VM.md",
-    "WoRD/index.md",
     "Training/index.md",
     "Templates/index.md",
     "Meetings/index.md",
@@ -197,7 +236,6 @@
     "InternStuff/index.md",
     "General/index.md",
     "Development/index.md",
-    "Daily Notes (Stand-ups and Etc)/index.md",
     "Development/Setting Up component Locally.md",
     "Development/Notes for talks during kickoff.md",
     "Archive/Correct Intercept Info.md",
@@ -206,12 +244,6 @@
     "Development/Back-End/Implementation of isClassificationOnly Flag diagram.canvas",
     "Archive/Untitled.md",
     "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 2.md",
-    "Archive/Untitled 1.md",
-    "Meetings/Presentations/ElasticSearch Presentation.md",
-    "Meetings/Dev Meetings/Mini Meeting With Mackenzie !.md",
-    "Development/Back-End/Life Cycle Status.md",
-    "Development/Term/Common Terminal Commands For ManH Development.md"
+    "Untitled 2.canvas"
   ]
 }
