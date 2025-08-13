@@ -38,45 +38,17 @@
             }
           },
           {
-            "id": "7db495f5815617f1",
+            "id": "caeda1b4f7db1f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Back-End/Identify Hardcoded Lifecycle statuses.md",
+                "file": "Development/Back-End/Life Cycle Status.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identify Hardcoded Lifecycle statuses"
-            }
-          },
-          {
-            "id": "03e02e696765d20d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Front-End/General Development Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Development Notes"
-            }
-          },
-          {
-            "id": "13477eb40aff5e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meetings/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Life Cycle Status"
             }
           },
           {
@@ -94,12 +66,12 @@
             }
           },
           {
-            "id": "5d6c1c432316b55c",
+            "id": "82a59ca76518cb0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/index.md",
+                "file": "Meetings/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Presentations/ElasticSearch Presentation.md",
+                "file": "Meetings/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ElasticSearch Presentation"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -248,8 +220,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,16 +239,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d6c1c432316b55c",
+  "active": "82a59ca76518cb0a",
   "lastOpenFiles": [
+    "Life/Getting Things Done_GTD.md",
+    "Life/index.md",
+    "General/change management.md",
+    "General/MA Frameworks Overview.md",
+    "General/index.md",
+    "Development/Development index.md",
     "Home.md",
-    "Daily Notes (Stand-ups and Etc)/index.md",
-    "Meetings/index.md",
-    "Development/Front-End/General Development Notes.md",
-    "Development/Back-End/Identify Hardcoded Lifecycle statuses.md",
-    "Development/index.md",
-    "WoRD/index.md",
     "Meetings/1on1_Wed Aug 13 Preparation.md",
+    "Development/Python Script Guide-Incremental....md",
+    "Development/Back-End/Life Cycle Status.md",
+    "Development/Back-End/Identify Hardcoded Lifecycle statuses.md",
+    "Development/FullStack/Stories/Untitled.md",
+    "Development/Front-End/General Development Notes.md",
+    "Meetings/index.md",
+    "Daily Notes (Stand-ups and Etc)/index.md",
+    "WoRD/index.md",
     "Development/Front-End/Conditional_Hidden Field Description.md",
     "Development/Back-End/Code notes/Demand Cleansing.md",
     "Development/Back-End/Code notes/Forecast Projection Calculation.md",
@@ -287,16 +266,8 @@
     "Development/Back-End/Stories/Card View.md",
     "Development/Back-End/Code Notes for E2E Testing.md",
     "Development/Back-End/Aggregate Profiling.md",
-    "Development/Back-End/Life Cycle Status.md",
-    "Life/index.md",
     "Development/Back-End/Implementation of isClassificationOnly Flag diagram.canvas",
     "Development/Back-End/Lifecycle Status.md",
-    "General/index.md",
-    "Daily Notes (Stand-ups and Etc)/Today's To-do.md",
-    "Daily Notes (Stand-ups and Etc)/New Assignment.md",
-    "Daily Notes (Stand-ups and Etc)/Interfaces.md",
-    "Daily Notes (Stand-ups and Etc)/Untitled.md",
-    "Daily Notes (Stand-ups and Etc)/Untitled 1.md",
     "Training/Enterprise Supply Chain Management",
     "Archive",
     "Untitled.canvas",

@@ -3,7 +3,7 @@
 #### Welcome to your work digital brain . Select a category:
 
 ##### - [[Daily Notes (Stand-ups and Etc)/index|Daily Notes]]
-##### - [[Development/index|Development]]
+##### - [[Development index|Development]]
 ##### - [[General/index|General]]
 ##### - [[InternStuff/index|Intern Stuff]]
 ##### - [[Life/index|Life]]
