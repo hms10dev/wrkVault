@@ -1,3 +1,5 @@
+inherited attribute on itemLocation gets inherited from the item
+
 https://manhattanassociates.atlassian.net/wiki/spaces/ASCP/pages/4316954746/Life+Cycle+Policy
 https://manhattanassociates.atlassian.net/wiki/spaces/ASCP/pages/edit-v2/5210964268#Life-Cycle-Policies
 
