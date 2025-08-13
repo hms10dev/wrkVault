@@ -33,7 +33,7 @@ This section contains all development-related notes, organized by technology sta
 
 ### Framework Specific
 
-- [[Angular]]
+- [[Angular]]       
 - [[MUP]]
 
 ### Documentation & Resources
