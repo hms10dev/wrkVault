@@ -1,21 +1,4 @@
 # Daily Notes (Stand-ups and Etc)
-## **Meetings**
-
-- [[09-07 Meeting With David]]
-    
-- [[2023-03-16 Meeting With David]]
-    
-- [[Meeting With Chris Brown for Who What Wednesday]]
-    
-- [[SCP Project Kickoff-2023-03-31]]
-    
-- [[Discuss the high level system flow and open tasks - R&D kickoff simulation event]]
-    
-- [[First Daily Standup !]]
-    
-
----
-
 ## **Dated Notes**
 
 - [[2022-08-30]]
