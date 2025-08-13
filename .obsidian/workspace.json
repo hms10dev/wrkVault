@@ -10,15 +10,17 @@
           {
             "id": "ded18075f0a7be99",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Changing Component Image In A Freedom VM.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Changing Component Image In A Freedom VM"
+              "title": "Home"
             }
           }
         ]
@@ -170,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -182,6 +185,19 @@
   },
   "active": "ded18075f0a7be99",
   "lastOpenFiles": [
+    "Bragbook/Add to Brag Book.md",
+    "Bragbook/index.md",
+    "Home.md",
+    "Development/Changing Component Image In A Freedom VM.md",
+    "WoRD/index.md",
+    "Training/index.md",
+    "Templates/index.md",
+    "Meetings/index.md",
+    "Life/index.md",
+    "InternStuff/index.md",
+    "General/index.md",
+    "Development/index.md",
+    "Daily Notes (Stand-ups and Etc)/index.md",
     "Development/Setting Up component Locally.md",
     "Development/Notes for talks during kickoff.md",
     "Archive/Correct Intercept Info.md",
