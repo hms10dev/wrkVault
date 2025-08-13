@@ -2,6 +2,7 @@
 
 ### 2025
 - [[1on1_Wed Aug 13 Preparation]]
+	- [[1on1 Wed Aug 13 Notes]]
  - [[DevTime Notes]]
  - [[DevTime_Jun 13]]
  - [[Quick Sync on Forecast Summary UI Behavior & Validation Flow]]
